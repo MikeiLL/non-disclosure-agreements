@@ -11,10 +11,10 @@ party1_representative: "Mike Gifford"
 party1_type: "incorporated business"
 party2: "BUSINESS 2"
 party2_address: "ADDRESS 2"
-party2_full: "FULL ADDRESS NAME 2"
+party2_full: "FULL BUSINESS NAME 2"
 party2_reg: "SOMEWHERE, USA"
 party2_representative: "JOHN DOE"
-party2_type: "CORPORATION"
+party2_type: "BUSINESS TYPE"
 
 # Optional Clauses
 conf_info_defined: ""
