@@ -8,6 +8,13 @@ Why did we make this repository? GitLaw. That's why.
 
 These documents have been formated in a specific way to be utilized with Casey's [legal_markdown gem](https://github.com/compleatang/legal-markdown), [Pandoc](johnmacfarlane.net/pandoc/README.html), and [Jekyll](https://github.com/mojombo/jekyll) as part of an ongoing program we are doing at [Watershed](http://watershedlegal.com) that seeks to reformulate how we are practicing law.
 
+#Installation
+In a Mac:
+  $ sudo gem install legal_markdown
+  
+#Running Script
+$ legal2md Short-Form\ Non-Disclosure\ Agreement.lmd 
+
 ## License
 
 Documents are open sourced under [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
