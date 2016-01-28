@@ -4,13 +4,16 @@
 date: "January 28, 2016"
 governing-law: "Ontario, Canada"
 party1: "OpenConcept"
-party1_address: "571 Somerset St. West"
+party1_address: "571 Somerset St. West, Ottawa ON K1R 5K1"
+party1_email: "mike@openconcept.ca"
 party1_full: "OpenConcept Consulting Inc."
 party1_reg: "Ontario, Canada"
 party1_representative: "Mike Gifford"
 party1_type: "incorporated business"
+
 party2: "BUSINESS 2"
 party2_address: "ADDRESS 2"
+party2_email: "CLIENT@EXAMPLE.COM"
 party2_full: "FULL BUSINESS NAME 2"
 party2_reg: "SOMEWHERE, USA"
 party2_representative: "JOHN DOE"
@@ -84,9 +87,9 @@ ll. Return of Confidential Information.* Upon termination of this Agreement for 
 ll. Remedies.*  Due to the unique nature of the Confidential Information, the parties agree that any breach or threatened breach of this Agreement will cause not only financial harm to Discloser, but also irreparable harm for which money damages will not be an adequate remedy. Therefore, Discloser shall be entitled, in addition to any other legal or equitable remedies, to an injunction or similar equitable relief against any such breach or threatened breach without the necessity of posting any bond.
 ​l. Final Provisions.
 ll. Entire Agreement.* This Agreement constitutes the entire agreement, and supersedes all prior negotiations, understandings or agreements (oral or written), between the parties concerning the subject matter hereof.
-ll. Counterparts.* This Agreement may be executed in one or more counterparts, each of which is an original, but taken together constituting one and the same instrument. Execution of a facsimile or electronic copy shall have the same force and effect as execution of an original, and a facsimile or electronic signature shall be deemed an original and valid signature.
+ll. Counterparts.* This Agreement may be executed in one or more counterparts, each of which is an original, but taken together constituting one and the same instrument. Execution of an electronic copy shall have the same force and effect as execution of an original, and an electronic signature shall be deemed an original and valid signature.
 ll. Waivers.* No change, consent or waiver to this Agreement will be effective unless in writing and signed by the party against which enforcement is sought. The failure of either party to enforce its rights under this Agreement at any time for any period shall not be construed as a waiver of such rights.
-ll. Notice.* Any notice hereunder will be effective upon receipt and shall be given in writing, in English and delivered to the other party at its address given herein or at such other address designated by written notice.
+ll. Notice.* Any notice hereunder will be effective upon receipt and shall be given in writing, in English and delivered to the other party at its electronically to the specified address.
 ll. Rights.* Unless expressly provided otherwise, each right and remedy in this Agreement is in addition to any other right or remedy, at law or in equity, and the exercise of one right or remedy will not be deemed a waiver of any other right or remedy.
 ll. Severability.* In the event that any provision of this Agreement shall be determined to be illegal or unenforceable, that provision will be limited or eliminated to the minimum extent necessary so that the Agreement shall otherwise remain in full force and effect and enforceable.
 ll. Governing Law.* This Agreement shall be governed by and construed in accordance with the laws of the {{governing-law}} without regard to the conflicts of laws provisions thereof. Exclusive jurisdiction and venue for any action arising under this Agreement is in the federal and provincial courts having jurisdiction over {{party1}}'s principal office, and both parties hereby consent to such jurisdiction and venue for this purpose.
@@ -95,10 +98,28 @@ ll. Attorney's Fees and Costs.* In any action or proceeding to enforce or interp
 
 IN WITNESS HEREOF, the parties have executed this Agreement as a sealed instrument as of the date set forth above.
 
-For the {{party1}} - Signature: ______________________________
+**For the {{party1}}**
 
-Date:________________________ Print: _________________________
+{{party1_address}}
 
-For the {{party2}} - Signature: ______________________________
+{{party1_email}}
 
-Date: _______________________ Print: _________________________
+Signature: ______________________________
+
+{{party1_representative}}
+
+Date:________________________
+
+
+
+**For the {{party2}}**
+
+{{party2_address}}
+
+{{party2_email}}
+
+Signature: ______________________________
+
+{{party2_representative}}
+
+Date: _______________________
