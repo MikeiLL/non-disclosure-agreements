@@ -97,7 +97,7 @@ ll. Governing Law.* This Agreement shall be governed by and construed in accorda
 
 IN WITNESS HEREOF, the parties have executed this Agreement as a sealed instrument as of the date set forth above.
 
-**For the {{party1}}**
+**For the {{party1_full}}**
 
 {{party1_address}}
 
@@ -111,7 +111,7 @@ Date:________________________
 
 
 
-**For the {{party2}}**
+**For the {{party2_full}}**
 
 {{party2_address}}
 
