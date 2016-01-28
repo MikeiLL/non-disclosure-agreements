@@ -1,11 +1,11 @@
 ---
 
 # Mixins
-date:
-disclosing-party:
-disclosure-purpose:
-governing-law:
-receiving-party:
+date: "January 28, 2016"
+disclosing-party: ""
+disclosure-purpose: ""
+governing-law: "Ontario, Canada"
+receiving-party: "OpenConcept Consulting Inc."
 
 # Optional Clauses
 

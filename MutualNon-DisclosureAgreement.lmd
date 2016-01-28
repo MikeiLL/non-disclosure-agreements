@@ -1,13 +1,13 @@
 ---
 
 # Mixins
-date: ""
-governing-law: ""
-party1: ""
-party1_address: ""
+date: "January 28, 2016"
+governing-law: "Ontario, Canada"
+party1: "OpenConcept Consulting Inc."
+party1_address: "571 Somerset St. West"
 party1_full: ""
 party1_reg: ""
-party1_representative: ""
+party1_representative: "Mike Gifford"
 party1_type: ""
 party2: ""
 party2_address: ""

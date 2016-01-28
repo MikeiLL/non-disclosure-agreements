@@ -1,32 +1,32 @@
 ---
 
 # Mixins
-date:
-governing-law:
-party1:
-party1_address:
-party1_full:
-party1_reg:
-party1_representative:
-party1_type:
-party2:
-party2_address:
-party2_full:
-party2_reg:
-party2_representative:
-party2_type:
+date: January 28, 2016
+governing-law: Ontario, Canada
+party1: OpenConcept Consulting Inc.
+party1_address: 571 Somerset St. West
+party1_full: ""
+party1_reg: ""
+party1_representative: Mike Gifford
+party1_type: ""
+party2: ""
+party2_address: ""
+party2_full: ""
+party2_reg: ""
+party2_representative: ""
+party2_type: ""
 
 # Optional Clauses
-conf_info_defined:
-conf_info_includes:
-trade_secrets_included:
+conf_info_defined: ""
+conf_info_includes: ""
+trade_secrets_included: ""
 
 # Structured Headers
-level-1: Article 1.
-level-2: Section 1.
-level-3: (a)
-no-indent: l., ll.
-no-reset:
+level-1: Article 1. ""
+level-2: Section 1. ""
+level-3: (a) ""
+no-indent: l., ll. ""
+no-reset: ""
 
 ---
 
