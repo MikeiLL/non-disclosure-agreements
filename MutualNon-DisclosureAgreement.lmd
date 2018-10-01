@@ -1,14 +1,14 @@
 ---
 
 # Mixins
-date: "January 28, 2016"
-governing-law: "Ontario, Canada"
-party1: "OpenConcept"
-party1_address: "571 Somerset St. West, Ottawa ON K1R 5K1"
-party1_email: "mike@openconcept.ca"
-party1_full: "OpenConcept Consulting Inc."
-party1_reg: "Ontario, Canada"
-party1_representative: "Mike Gifford"
+date: "October 1st, 2018"
+governing-law: "Lexington, KY"
+party1: "LexWebDev"
+party1_address: "332 South Upper St #7 Lexington KY 40508"
+party1_email: "tom@lexwebdev.com"
+party1_full: "LexWebDev"
+party1_reg: "Lexington, KY"
+party1_representative: "Tom Carden"
 party1_type: "incorporated business"
 
 party2: "BUSINESS 2"
